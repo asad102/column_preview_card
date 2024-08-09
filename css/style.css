@@ -1098,10 +1098,6 @@ video {
   margin: 2.5rem;
 }
 
-.mt-10 {
-  margin-top: 2.5rem;
-}
-
 .mt-2 {
   margin-top: 0.5rem;
 }
@@ -1207,10 +1203,6 @@ video {
 
 .h-\[48px\] {
   height: 48px;
-}
-
-.max-h-\[500px\] {
-  max-height: 500px;
 }
 
 .min-h-screen {
