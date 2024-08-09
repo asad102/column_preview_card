@@ -1094,8 +1094,13 @@ video {
   clear: none;
 }
 
-.m-10 {
-  margin: 2.5rem;
+.mx-10 {
+  margin-left: 2.5rem;
+  margin-right: 2.5rem;
+}
+
+.mt-10 {
+  margin-top: 2.5rem;
 }
 
 .mt-2 {
