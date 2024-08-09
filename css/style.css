@@ -1094,6 +1094,15 @@ video {
   clear: none;
 }
 
+.my-10 {
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+}
+
+.mt-10 {
+  margin-top: 2.5rem;
+}
+
 .mt-2 {
   margin-top: 0.5rem;
 }
@@ -2521,16 +2530,6 @@ video {
   line-height: 25px;
 }
 
-.text-Brightorange {
-  --tw-text-opacity: 1;
-  color: hsl(31 77% 52% / var(--tw-text-opacity));
-}
-
-.text-Darkcyan {
-  --tw-text-opacity: 1;
-  color: hsl(184 100% 22% / var(--tw-text-opacity));
-}
-
 .text-Verydarkcyan {
   --tw-text-opacity: 1;
   color: hsl(179 100% 13% / var(--tw-text-opacity));
@@ -2952,20 +2951,12 @@ video {
   }
 }
 
-.hover\:border-\[1px\]:hover {
-  border-width: 1px;
-}
-
 .hover\:border-2:hover {
   border-width: 2px;
 }
 
 .hover\:border-solid:hover {
   border-style: solid;
-}
-
-.hover\:border-Transparentt:hover {
-  border-color: hsla(0, 0%, 100%, 0.75);
 }
 
 .hover\:border-Verylightgray:hover {
@@ -2977,17 +2968,8 @@ video {
   background-color: transparent;
 }
 
-.hover\:bg-Transparentt:hover {
-  background-color: hsla(0, 0%, 100%, 0.75);
-}
-
 .hover\:font-bold:hover {
   font-weight: 700;
-}
-
-.hover\:text-white:hover {
-  --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
 .hover\:text-Verylightgray:hover {
