@@ -1094,6 +1094,10 @@ video {
   clear: none;
 }
 
+.m-10 {
+  margin: 2.5rem;
+}
+
 .mt-10 {
   margin-top: 2.5rem;
 }
@@ -3015,6 +3019,14 @@ video {
 }
 
 @media (min-width: 1440px) {
+  .lg\:mt-10 {
+    margin-top: 2.5rem;
+  }
+
+  .lg\:max-h-\[500px\] {
+    max-height: 500px;
+  }
+
   .lg\:grid-cols-3 {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
