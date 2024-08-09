@@ -3011,10 +3011,6 @@ video {
 }
 
 @media (min-width: 1440px) {
-  .lg\:mt-10 {
-    margin-top: 2.5rem;
-  }
-
   .lg\:max-h-\[500px\] {
     max-height: 500px;
   }
